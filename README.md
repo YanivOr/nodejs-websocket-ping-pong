@@ -30,5 +30,5 @@ Or by using Nginx or Apache
 
 
 ## Open your browser
-on [localhost:3000](http://localhost:3000/) and you should see a page similar to the one in the following video:
+you should see a page similar to the one in the following video:
 https://www.youtube.com/watch?v=6L_Y7GAf_FQ
