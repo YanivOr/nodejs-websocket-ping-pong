@@ -3,7 +3,7 @@
 
 ## clone
 ```bash
-git clone https://github.com/YanivOr/nodejs-socketio-ping-pong.git
+git clone https://github.com/YanivOr/nodejs-websocket-ping-pong
 ```
 
 ## server
